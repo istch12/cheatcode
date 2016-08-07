@@ -1,0 +1,57 @@
+#header {
+	height: 100px;
+	width: 80%;
+	border-color: gray;
+	border-style: solid;
+	display: inline-block;
+}
+
+#logo {
+	height: 100px;
+	width: 120px;
+	display: inline-block;
+	float: left;
+}
+
+#logoname {
+	display: inline-block;
+	text-align: justify;
+	font-size: 75px;
+	margin-top: 10px;
+	text-height: 160px;
+}
+
+#help {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	float: right;
+	margin-top: 35px;
+}
+
+#helptext {
+	display: inline-block;
+	font-size: 20px;
+	float: right;
+	margin-top: 55px;
+}
+
+#docsection {
+	height: 100px;
+	width: 18.7%;
+	float: right;
+	border-color: gray;
+	border: solid;
+	display: inline-block;
+}
+
+#docicon {
+	height: 20px;
+	width: 20px;
+	margin-top: 20%;
+}
+
+#doctext {
+	text-align: center;
+	font-size: 20px;
+}
